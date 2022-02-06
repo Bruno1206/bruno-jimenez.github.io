@@ -32,4 +32,4 @@ highlight_name: true
 ---
 **Welcome!** I am Bruno Jimenez, a MA student at Universidad Nacional de La Plata (Argentina); prior to that, I worked as a research assistant and obtained my BA in Economics at Universidad de Piura (Peru). I am joining the Department of Economics at Princeton University as a Predoctoral Fellow in the summer of 2022. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_BrunoWeb.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/cv_brunoweb.pdf" "newtab" >}}CV{{< /staticref >}}.
