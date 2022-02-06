@@ -7,4 +7,3 @@ title: Biography
 active: true
 author: admin
 ---
-Me empieza a molestar que haga frío en la ciudá
