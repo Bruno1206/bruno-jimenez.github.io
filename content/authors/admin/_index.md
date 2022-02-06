@@ -1,7 +1,7 @@
 ---
 title: Bruno Jiménez
 role: ""
-avatar_filename: profilepic.jpg
+avatar_filename: avatar.jpg
 bio: "My research interests include development economics, labor economics,
   political economy, and financial intermediation. "
 interests: []
