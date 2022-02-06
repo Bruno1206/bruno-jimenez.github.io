@@ -12,9 +12,6 @@ social:
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Bruno-Jimenez
-  - icon: envelope-square
-    icon_pack: fas
-    link: mailto:brunojs1206@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/BrunoJ1206
@@ -35,4 +32,4 @@ highlight_name: true
 ---
 **Welcome!** I am Bruno Jimenez, a MA student at Universidad Nacional de La Plata (Argentina); prior to that, I worked as a research assistant and obtained my BA in Economics at Universidad de Piura (Peru). I am joining the Department of Economics at Princeton University as a Predoctoral Fellow in the summer of 2022. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
